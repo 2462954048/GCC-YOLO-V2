@@ -6,7 +6,7 @@ To solve the problem of missed and false detection caused by the large number of
 2.Improved Network Architecture
 ----
 ![image](https://github.com/2462954048/GCC-YOLO-V2/assets/45593319/2d8fd4d8-20a4-4692-8e82-bd3a685440cd)  <br>  <br>
-We have published the code for the proposed C3GC module and C3CM module, which can be accessed at the link: (https://github.com/2462954048/GCC-YOLO/blob/main/GCC-YOLO2/models/gc.py), (https://github.com/2462954048/GCC-YOLO/blob/main/GCC-YOLO2/models/cspcm.py).  <br>  <br>
+We have published the code for the proposed C3GC module and C3CM module, which can be accessed at the link: (https://github.com/2462954048/GCC-YOLO-V2/tree/master/models/gc.py), (https://github.com/2462954048/GCC-YOLO-V2/tree/master/models/cspcm.py).  <br>  <br>
 3.Implementation
 ----
 The proposed architecture is implemented using the PyTorch framework (1.8.1+cu111) with a single GeForce RTX 3090 GPU of 24 GB memory.  <br>  <br>
@@ -14,10 +14,10 @@ The proposed architecture is implemented using the PyTorch framework (1.8.1+cu11
 -----
 This experiment is based on the PCB defect dataset released by the Open Lab of Peking University for image augmentation. The original dataset contained 693 images, and the augmented dataset has been expanded to 4158 images.   <br>
 We have published the augmented PCB dataset, which can be accessed at the link: (https://pan.baidu.com/s/1kIeh9JCOBKF39E26A-UsBQ), and the download code: 0000.  <br>  <br>
-We have published the code of PCB dataset enhancement based on the albumentations framework, which can be accessed at the link: (https://github.com/2462954048/GCC-YOLO/blob/main/GCC-YOLO2/AlbumentationEnhance.py). <br>  <br>
+We have published the code of PCB dataset enhancement based on the albumentations framework, which can be accessed at the link: https://github.com/2462954048/GCC-YOLO-V2/tree/master/AlbumentationEnhance.py). <br>  <br>
 3.2 Trained model
 -----
-You can download the weight file from the following links:https://github.com/2462954048/GCC-YOLO-V2/blob/main//GCC-YOLO.pt  <br>  <br>
+You can download the weight file from the following links: (https://github.com/2462954048/GCC-YOLO-V2/tree/master/GCC-YOLO.pt)  <br>  <br>
 4.License
 ----
 The source code is free for research and education use only. Any comercial use should get formal permission first.  <br>  <br>
