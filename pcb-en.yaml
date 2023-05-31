@@ -1,0 +1,11 @@
+train: F:\\datasets\\pcb-yolo-en-clean-v2\\train.txt
+val: F:\\datasets\\pcb-yolo-en-clean-v2\\valid.txt
+test: F:\\datasets\\pcb-yolo-en-clean-v2\\test.txt
+names: ["missing_hole",
+"mouse_bite",
+"open_circuit",
+"short",
+"spur",
+"spurious_copper"
+]
+nc: 6
