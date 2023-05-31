@@ -16,9 +16,12 @@ We have published the augmented PCB dataset, which can be accessed at the link: 
 3.2 Trained model
 -----
 You can download the weight file from the following links:https://github.com/2462954048/GCC-YOLO-V2/blob/main//GCC-YOLO.pt  <br>  <br>
-4.Contact
+4.License
 ----
-lease contact 2021203258@cqust.edu.cn for any further questions.
+The source code is free for research and education use only. Any comercial use should get formal permission first.
+5.Contact
+----
+Please contact 2021203258@cqust.edu.cn for any further questions.
 
 
 
